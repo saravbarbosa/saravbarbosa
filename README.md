@@ -1,4 +1,4 @@
-## Olá! Me chamo Sara Baebosa 👋
+## Olá! Me chamo Sara Barbosa 👋
 
 - 💎 Tenho maior interesse em Front-end
 - 📌 Estudando HTML, CSS e JavaScript
