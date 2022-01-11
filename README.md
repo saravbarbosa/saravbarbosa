@@ -1,5 +1,5 @@
 ## Olá! Me chamo Sara Barbosa 👋
-- 💎 Estudando Front-end
+- 💎 Atualmente estudando Front-end
 - 📌 HTML, CSS e JavaScript
 
  <div>
