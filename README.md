@@ -1,7 +1,7 @@
 ## Olá! Me chamo Sara Barbosa 👋
 
 - 💎 Tenho maior interesse em Front-end
-- ☕ Estudando HTML, CSS e JavaScript
+- 📌 Estudando HTML, CSS e JavaScript
 
 <div align="center">
   <a href="https://github.com/saravbarbosa">
