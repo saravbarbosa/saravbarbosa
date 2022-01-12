@@ -1,6 +1,11 @@
-## Olá! Me chamo Sara Barbosa
-- 💎 Atualmente estudando <strong>Front-end</strong>
-- 📌 HTML, CSS e JavaScript
+<p align="left"> 
+ Olá! Me chamo Sara Barbosa. <br> Sou graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong>.
+</p>
+
+<p align="left">💎 Atualmente estudando <strong>Front-end</strong></p>
+
+
+##
 
  <div>
   <a href="https://github.com/saravbarbosa">
