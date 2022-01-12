@@ -1,6 +1,6 @@
 ## Olá! Me chamo Sara Barbosa
 <p align="left"> <br> Sou graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
-💎 Atualmente estudando <strong>Front-end</strong></p>
+💎 Atualmente estudando <strong>Front-end</strong>.</p>
 
 ##
 
