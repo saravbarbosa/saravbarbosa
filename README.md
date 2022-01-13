@@ -9,6 +9,11 @@ Contate-me:</p>
 
 <div> 
   <a href="https://www.linkedin.com/in/sara--barbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/saravbarbosa">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+  alt="E-mail Sara Barbosa"/>
+</a>
+ 
   </div>
   
   </br>
