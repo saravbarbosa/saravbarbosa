@@ -1,8 +1,9 @@
-## Olá! Me chamo Sara Barbosa
+
 
   <div><img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/f6/bf/0e/f6bf0ecd37d471e8ec1b7fd9ff1daab7.jpg">
     </div>
 
+Olá! Me chamo Sara Barbosa.
 <p align="left"> <br> Sou graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
 💎 Atualmente estudando <strong>Front-end</strong>.</p>
 Contate-me:</p>
