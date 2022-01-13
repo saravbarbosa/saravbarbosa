@@ -23,6 +23,10 @@
 <div> 
   <a href="https://www.linkedin.com/in/sara--barbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  
+  <div>
+<img align="right" alt="we-can-pic" height="60" src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif">
+</div>
 </div>
  
 </div>
