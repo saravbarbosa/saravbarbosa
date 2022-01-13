@@ -40,7 +40,8 @@ Contate-me:</p>
   </br>
 
   <kbd>Outros:</kbd><br>
-  
+    <div style="display: inline_block">
+    <img align="center" alt="Sara-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg">
  
 ##
  
