@@ -1,8 +1,14 @@
 ## Olá! Me chamo Sara Barbosa
 <p align="left"> <br> Sou graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
 💎 Atualmente estudando <strong>Front-end</strong>.</p>
+Contate-me:</p>
 
-##
+<div> 
+  <a href="https://www.linkedin.com/in/sara--barbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
+  ##
+
 
 <div align="center">
   <a href="https://github.com/saravbarbosa">
@@ -38,11 +44,6 @@
   
  
 ##
-
-   <kbd>Contate-me:</kbd><br>
-<div> 
-  <a href="https://www.linkedin.com/in/sara--barbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
  
   
 </div>
