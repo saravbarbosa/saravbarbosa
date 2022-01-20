@@ -1,15 +1,23 @@
-<p align="left">Olá! Me chamo Sara Barbosa. Sou graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="260px" align="right" alt="computador marianatheml">
+
+
+
+<p align="left">Olá! Me chamo Sara Barbosa.</br>
+Sou graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
 💎 Atualmente estudando <strong>Front-end</strong>.</p>
 Contate-me:</p>
 
 <div> 
   <a href="https://www.linkedin.com/in/sara--barbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</a>
+  </div>
  
   </div>
+   
+  </br>
   
 ##
 
+</br>
 
 <div align="center">
   <a href="https://github.com/saravbarbosa">
