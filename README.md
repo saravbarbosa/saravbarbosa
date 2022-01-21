@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="260px" align="right" alt="computador marianatheml">
 
-## Olá! Me chamo Sara Barbosa
+Olá! Me chamo Sara Barbosa
 
 Sou graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
 💎 Atualmente estudando <strong>Front-end</strong>.</p>
