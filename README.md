@@ -2,8 +2,9 @@
 
 ## Olá! Me chamo Sara Barbosa
 
-Sou graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong> no IFPE.<br>
-💎 Atualmente estudando <strong>Front-end</strong>.</p>
+- Sou graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong> no IFPE.<br>
+- 💎 Atualmente estudando <strong>Front-end</strong>.</p>
+
 Contate-me:</p>
 
 <div> 
