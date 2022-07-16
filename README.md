@@ -16,8 +16,8 @@ Contate-me:</p>
   
 ##
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=saravbarbosa&show_icons=true&theme=omni&include_all_commits=true&count_private=false&hide_border=true"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravbarbosa&layout=compact&langs_count=7&theme=omni&hide_border=true"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=saravbarbosa&show_icons=true&theme=aura&include_all_commits=true&count_private=false&hide_border=true"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravbarbosa&layout=compact&langs_count=7&theme=aura&hide_border=true"/> 
 </div>
 
   </br>
