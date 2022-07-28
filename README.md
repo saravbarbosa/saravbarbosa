@@ -7,9 +7,9 @@
 
 Contate-me:</p>
 
-<div> 
-  <a href="https://www.linkedin.com/in/saravbarbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+  <a href="https://www.linkedin.com/in/saravbarbosa" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+  </a>
  
   </div>
    
