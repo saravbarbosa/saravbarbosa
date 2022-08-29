@@ -5,7 +5,7 @@
 - 👩🏽‍💻 Sou graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong> no IFPE.<br>
 - 💎 Atualmente estudando <strong>Front-end</strong>.</p>
 
-Contate-me:</p>
+Entre em contato:</p>
 
 <div> 
   <a href="https://www.linkedin.com/in/saravbarbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
