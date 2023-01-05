@@ -46,8 +46,5 @@ Entre em contato:</p>
     <div style="display: inline_block">
      <img align="center" alt="Sara-Vscode" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
      <img align="center" alt="Sara-Figma" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg">
-<br> 
-<br>
-
 </div>
 </div>
