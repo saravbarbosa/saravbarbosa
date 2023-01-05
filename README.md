@@ -28,7 +28,7 @@ Entre em contato:</p>
 </div>
 </div>
 
-##
+## 
 
 </br> 
 
@@ -39,15 +39,15 @@ Entre em contato:</p>
   </div>
   
 ##
+ <img src="https://user-images.githubusercontent.com/97530586/210677038-622ccc6c-89db-4964-b3d2-dad6aa14f9f8.gif" width="400" align="right" alt="computador">
   
 
   <kbd>Ferramentas:</kbd><br>
     <div style="display: inline_block">
      <img align="center" alt="Sara-Vscode" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
      <img align="center" alt="Sara-Figma" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg">
+<br> 
+<br>
 
-
- 
-  
 </div>
 </div>
