@@ -19,24 +19,17 @@ Entre em contato:</p>
 </div>
 
   </br>
-<kbd>Front-end:</kbd><br>
+<kbd>Tecnologias:</kbd><br>
   <div style="display: inline_block"><br>
   <img align="center" alt="Sara-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Sara-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sara-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sara-Bootstrap" height="43" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+   <img align="center" alt="Sara-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 </div>
-
-## 
 
 </br> 
-
-<kbd>Back-end:</kbd><br>
-  <div style="display: inline_block">
-    <img align="center" alt="Sara-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  </div>
   
 ##
  <img src="https://user-images.githubusercontent.com/97530586/210677038-622ccc6c-89db-4964-b3d2-dad6aa14f9f8.gif" width="400" align="right" alt="computador">
