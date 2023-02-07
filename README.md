@@ -29,11 +29,9 @@ Entre em contato:</p>
 </div>
 </div>
 
-</br> 
   
 ##
- <img src="https://user-images.githubusercontent.com/97530586/210677038-622ccc6c-89db-4964-b3d2-dad6aa14f9f8.gif" width="400" align="right" alt="computador">
-  
+
 
   <kbd>Ferramentas:</kbd><br>
     <div style="display: inline_block">
