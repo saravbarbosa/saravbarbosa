@@ -20,6 +20,7 @@ Entre em contato:</p>
 </div>
   </br>
   </br>
+ Estudando atualmente:</p>
 <kbd>Tecnologias:</kbd><br>
   <div style="display: inline_block"><br>
   <img align="center" alt="Sara-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
