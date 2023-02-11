@@ -2,8 +2,8 @@
 
 ## Olá! Me chamo Sara Barbosa
 
-- 👩🏽‍💻 Sou graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong> no IFPE.<br>
-- 💻 Cursando Técnico em <strong>Desenvolvimento de Sistemas</strong> na ETEPAC.
+- 👩🏽‍💻 Sou graduanda em Análise e Desenvolvimento de Sistemas no IFPE.<br>
+- 💻 Cursando Técnico em Desenvolvimento de Sistemas na ETEPAC.
 - 💎 Atualmente estudando <strong>Front-end</strong>.</p>
 
 Entre em contato:</p>
