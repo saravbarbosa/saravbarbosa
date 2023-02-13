@@ -19,7 +19,7 @@ Entre em contato:</p>
 </div>
 </br>
 
- ### Estudando atualmente:
+ #### Estudando atualmente:
  </p>
 <kbd>Tecnologias</kbd><br>
   <div style="display: inline_block"><br>
