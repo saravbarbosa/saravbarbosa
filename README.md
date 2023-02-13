@@ -8,7 +8,7 @@
 Entre em contato:</p>
 
 <div> 
-  <a href="https://www.linkedin.com/in/saravbarbosa" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-15141B?style=for-the-badge&logo=linkedin&logoColor=8B67DB" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/saravbarbosa" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B67DB" target="_blank"></a> 
   </div>
    
   
@@ -22,14 +22,14 @@ Entre em contato:</p>
  Estudando atualmente:</p>
 <kbd>Tecnologias</kbd><br>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Sara-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sara-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sara-JavaScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Sara-PHP" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Sara-Python" height="43" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sara-MySQL" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Sara-Bootstrap" height="43" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-   <img align="center" alt="Sara-Laravel" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
+  <img align="center" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=2B7EB2">
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=005C85">
+  <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20">
 </div>
 </div>
 
@@ -37,9 +37,8 @@ Entre em contato:</p>
 ##
   <kbd>Ferramentas</kbd><br>
     <div style="display: inline_block">
-     <img align="center" alt="Sara-Vscode" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
-     <img align="center" alt="Sara-Figma" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg">
-     <img align="center" alt="Sara-Git" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-plain-wordmark.svg">
-     <img align="center" alt="Sara-GitHub" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg">
+    <img align="center" alt="Vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117">
+    <img align="center" alt="Git" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26">
+    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </div>
 </div>
