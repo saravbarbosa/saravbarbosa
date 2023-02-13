@@ -21,7 +21,7 @@ Entre em contato:</p>
 ##
 
  ### Estudando atualmente:
- </br>
+
 <kbd>Tecnologias</kbd><br>
   <div style="display: inline_block"><br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
