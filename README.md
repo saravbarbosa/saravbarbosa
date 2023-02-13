@@ -11,8 +11,9 @@ Entre em contato:</p>
   <a href="https://www.linkedin.com/in/saravbarbosa" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B67DB" target="_blank"></a> 
   </div>
    
-  
+
 ##
+</br>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saravbarbosa&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravbarbosa&layout=compact&theme=aura&hide_border=true&langs_count=10"/> 
@@ -21,7 +22,7 @@ Entre em contato:</p>
 ##
 
  ### Estudando atualmente:
-
+</br>
 <kbd>Tecnologias</kbd><br>
   <div style="display: inline_block"><br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
