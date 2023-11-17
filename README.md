@@ -43,5 +43,6 @@ Entre em contato:</p>
     <img align="center" alt="Vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117">
     <img align="center" alt="Git" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26">
     <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
+    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 </div>
