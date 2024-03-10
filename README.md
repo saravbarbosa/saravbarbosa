@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="260px" align="right" alt="computador marianatheml">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=8B67DB&width=435&lines=Olá!+Meu nome+é+Sara+Barbosa." alt="Typing SVG" />
-- 👩🏽‍💻 Sou graduanda em Análise e Desenvolvimento de Sistemas no IFPE.<br>
+- 👩🏽‍💻 Sou graduanda em Engenharia Eletrônica na UFRPE.<br>
 - 💻 Técnica em Desenvolvimento de Sistemas pela ETEPAC.
 
 Entre em contato:</p>
