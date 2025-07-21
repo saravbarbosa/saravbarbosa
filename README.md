@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="260px" align="right" alt="computador marianatheml">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=8B67DB&width=435&lines=Olá!+Meu nome+é+Sara+Barbosa." alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=0&pause=1000&color=8B67DB&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Sara+Barbosa" alt="Typing SVG" />
+</p>
 - 👩🏽‍💻 Sou graduanda em Sistemas de Informação na UFRPE.<br>
 - 💻 Técnica em Desenvolvimento de Sistemas pela ETEPAC.
 
